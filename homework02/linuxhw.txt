@@ -1,0 +1,10 @@
+Wed Oct 28 11:56:38 UTC 2020
+Filesystem                Size      Used Available Use% Mounted on
+/dev/root                 4.9G      1.6G      3.2G  33% /
+   2 df -h /
+   3 df -h / >>/tmp/linuxhw.txt 
+   4 cat /tmp/linuxhw.txt 
+   5 history | tail -5
+   6 history | tail -5 >>/tmp/linuxhw.txt 
+   AuthenticX86
+32

@@ -1,0 +1,18 @@
+   0 date >/tmp/linuxhw.txt
+   1 cat /tmp/linuxhw.txt 
+   2 df -h /
+   3 df -h / >>/tmp/linuxhw.txt 
+   4 cat /tmp/linuxhw.txt 
+   5 history | tail -5
+   6 history | tail -5 >>/tmp/linuxhw.txt 
+   7 cat /proc/cpuinfo | grep vendor
+   8 cat /proc/cpuinfo | grep vendor >>/tmp/linuxhw.txt 
+   9 cat /tmp/linuxhw.txt 
+  10 vi /tmp/linuxhw.txt 
+  11 ps -ef | tail +2 | wc -l
+  12 ps -ef | tail +2 | wc -l >>/tmp/linuxhw.txt 
+  13 cat /tmp//linuxhw.txt 
+  14 export_file /tmp/linuxhw.txt 
+  15 histoty
+  16 history
+  17 history > /tmp/historyhw.txt
