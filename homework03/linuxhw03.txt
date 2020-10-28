@@ -1,0 +1,23 @@
+Wed Oct 28 12:53:14 UTC 2020
+   0 date >/tmp/myfirstbashscript.sh
+   1 ls -la /tmp/myfirstbashscript.sh 
+   2 chmod 700 /tmp/myfirstbashscript.sh 
+   3 ls -la /tmp/myfirstbashscript.sh 
+   4 export USER="nadja"
+   5 echo USER
+   6 echo $USER
+   7 vi /tmp/myfirstbashscript.sh 
+   8 cd /tmp/
+   9 ls -la
+  10 ./myfirstbashscript.sh 
+  11 vi /tmp/myfirstbashscript.sh 
+  12 ./myfirstbashscript.sh 
+  13 env
+  14 vi /tmp/myfirstbashscript.sh 
+  15 /tmp/myfirstbashscript.sh 
+  16 data >/tmp/linuxhw03.txt
+  17 date >/tmp/linuxhw03.txt 
+  18 ./myfirstbashscript.sh 
+  19 cat myfirstbashscript.sh 
+  20 cat linuxhw03.txt 
+  21 history >>linuxhw03.txt 
